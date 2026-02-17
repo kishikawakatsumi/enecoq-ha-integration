@@ -1,0 +1,10 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "enecoQ",
+        "description": "アドオンが出力するJSONファイルを読み取ってセンサーを作成します。"
+      }
+    }
+  }
+}
